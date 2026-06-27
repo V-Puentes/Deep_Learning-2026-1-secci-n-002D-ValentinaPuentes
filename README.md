@@ -2,7 +2,7 @@ Repositorio que incluye evaluaciones 1,2 y 3del ramo de Deep Learning
 
 Evaluación 3:
 Parte 1:https://github.com/V-Puentes/Deep_Learning-2026-1-secci-n-002D-ValentinaPuentes/blob/main/Entregable_3_1.ipynb
-Parte 2:
+Parte 2:https://github.com/V-Puentes/Deep_Learning-2026-1-secci-n-002D-ValentinaPuentes/blob/main/Entregable_3_2.ipynb
 
 Para abrir en Colab:
 Evaluación 2:
